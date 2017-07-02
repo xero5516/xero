@@ -5,6 +5,4 @@ yyy
 
 try
 
-uuuu
-
-you aint going die
+uuusu
