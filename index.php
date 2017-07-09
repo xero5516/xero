@@ -36,7 +36,7 @@ a {color:#000; text-decoration: none;}
 		<td class="the_name"><center>Doll Cut Floral Print Mini Dress</center></td>
 		</tr>
 		<tr>
-		<td class="the_price"><center>RM46.00 </center></td>
+		<td class="the_price"><center>RM48.00 </center></td>
 		</tr>
 		<tr>
 			<td class="the_shop_now"><center>SHOP NOW</center></td>
