@@ -201,7 +201,7 @@ a {color:#000; text-decoration: none;}
 			</td>
 		</tr>
 		<tr>
-		<td class="the_name"><center>Peter Pan Collar Long Sleeve Top</center></td>
+		<td class="the_name"><center> Long Sleeve Top</center></td>
 		</tr>
 		<tr>
 		<td class="the_price"><center>RM32.00 </center></td>
